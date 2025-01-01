@@ -1,0 +1,2 @@
+# egv_explainability_driven_adversarial_attack_detection
+Explainable Artificial Intelligence with Integrated Gradients for the Detection of Adversarial Attacks on Text Classifiers
