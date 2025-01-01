@@ -1,0 +1,2 @@
+orig_clean_acc,org_adv_acc,transfer_acc_on_clean,transfer_acc_on_adv,ori_wrong,adv_to_ori,adv_to_adv,ori_to_adv,ori_to_ori,restore_acc_on_adv,Total_Accuracy,f1_score,Count_new,FGWS_F1
+1.0,0.0,0.919,0.689,0.0,0.689,0.311,0.0,0.0,0.689,80.4,0.8158673771462404,1000,0.7785310734463277
